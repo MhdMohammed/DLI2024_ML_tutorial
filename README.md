@@ -16,7 +16,7 @@ Welcome to the DLI2024_ML_Tutorial repository! This repository contains material
 To get started with the materials in this repository, you can either clone the repository or download the files directly.
 
 ### Clone the Repository
-git clone https://github.com/your-username/DLI2024_ML_tutorial.git
+git clone https://github.com/MhdMohammed/DLI2024_ML_tutorial.git
 
 ### Download the Files
 You can download the files directly from the repository by clicking on the "Code" button and selecting "Download ZIP."
